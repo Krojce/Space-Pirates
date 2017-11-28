@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Krauzík\Documents\Laser Defender\SpacePirates v0.5\SpacePirates v0.5_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.655384 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.647384 ms (FindLiveObjects: 0.011076 ms CreateObjectMapping: 0.007794 ms MarkObjects: 0.147282 ms  DeleteObjects: 0.021743 ms)
+
+UnloadTime: 1.243897 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 1.959794 ms (FindLiveObjects: 0.056205 ms CreateObjectMapping: 0.029948 ms MarkObjects: 0.490256 ms  DeleteObjects: 0.026666 ms)
+
